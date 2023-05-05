@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lukman1993
-- 👀 I’m interested in Android Studio
-- 🌱 I’m currently learning Python
-- 📫 How to reach me https://www.siapngoding.com
+- 👋 Hi, I’m Lukman Wicaksono
+- 👀 I’m interested in Java , PHP and Dart
+- 🌱 I’m currently learning Dart and Python
+- 📫 How to reach me (https://www.softsby.com/)
 
 <!---
 Lukman1993/Lukman1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
